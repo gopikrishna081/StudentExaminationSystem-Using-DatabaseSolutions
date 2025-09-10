@@ -1,7 +1,6 @@
-# Student Examination & Results System (DSE Mini Project)
+# StudentExaminationSystem
 
 ## Overview
-This project is a Database Solutions 
 It manages students, courses, exams, faculty, and results with:
 - SQL tables with constraints
 - Stored procedures and functions
