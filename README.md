@@ -1,7 +1,7 @@
 # Student Examination & Results System (DSE Mini Project)
 
 ## Overview
-This project is a Database Solutions Expert (DSE) mini-project for Wipro TalentNext.
+This project is a Database Solutions 
 It manages students, courses, exams, faculty, and results with:
 - SQL tables with constraints
 - Stored procedures and functions
@@ -25,5 +25,4 @@ It manages students, courses, exams, faculty, and results with:
 3. Verify output by running sample queries.
 
 ## Author
-- Your Name
-- DSE Track, Wipro TalentNext 2025
+- Gopikrishna
